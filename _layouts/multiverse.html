@@ -10,7 +10,7 @@
       {%- include header.html -%}
 
       <div id="main">
-        {% for image in site.images %}
+        {% for image in site.images reversed %}
         <article class="thumb">
           <a href="{{site.baseurl}}{{ image.file }}" class="image">
             <img src="{{site.baseurl}}{{ image.file }}" alt="{{ image.title }}" />
