@@ -1,0 +1,29 @@
+title: Hannah Weitz
+author: Hannah Weitz
+email: art@hannah-weitz.de
+description: Art
+aboutme: >-
+  Hannah Weitz is a young artist born in Hessen, Germany. Her art focuses
+  mainly on watercolour portraits and oil paintings. Besides her art, she
+  has a Bachelor's degree in economics and plays badminton on a national
+  level.
+
+social:
+  twitter:
+  facebook:
+  instagram: hannahwtz
+  github:
+  linkedin:
+  pinterest:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
+
+include: ['.htaccess']
