@@ -1,6 +1,6 @@
 ---
 title: Live
-price:
+price: 350€
 caption: "Watercolor on paper, 22x26"
 file: /assets/images/bunt4.jpg
 ---
